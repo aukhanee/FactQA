@@ -1,0 +1,11 @@
+{
+  "train": "selfbaseSingleobject.txt"
+  ,"test": null
+  ,"validate": null
+  ,"vocabulary": "vocabulary"
+  ,"g_q_matrix": "g_q_matrix.pkl"
+  ,"selfbase": "selfbaseSingleobject.txt"
+  ,"subjects": "subjects.txt"
+  ,"f_y_matrix": "f_y_matrixfact.pkl"
+}
+

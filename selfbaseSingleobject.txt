@@ -1,0 +1,77 @@
+Pakistan	geographic_coordinates	30_00N_70_00E	What are the geographic coordinates of Pakistan?
+Pakistan	land_area	770875_sq_km	What is the land area of Pakistan?
+Pakistan	water_area	25220_sq_km	What is the water area of Pakistan?
+Pakistan	total_area	796095_sq_km	What is the total area of Pakistan?
+Pakistan	rank_area	37	What is the rank of Pakistan according to area in the world?
+Pakistan	land_boundaries_Afghanistan	2670_km	What are the land boundaries of Pakistan with Afghanistan?
+Pakistan	land_boundaries_China	438_km	What are the land boundaries of Pakistan with China?
+Pakistan	land_boundaries_India	3190_km	What are the land boundaries of Pakistan with India?
+Pakistan	land_boundaries_Iran	959_km	What are the land boundaries of Pakistan with Iran?
+Pakistan	climate	mostly_hot	How is the climate of Pakistan?
+Pakistan	mean_elevation	900m	What is the mean elevation of Pakistan?
+Pakistan	natural_resource	natural_gas	Name one natural resource of Pakistan.
+Pakistan	natural_resource	copper	Name one natural resource of Pakistan.
+Pakistan	natural_resource	poor_quality_coal	Name one natural resource of Pakistan.
+Pakistan	covered_agricultural_land_area	35.20%	What percentage of land area of Pakistan is covered by agriculural land?
+Pakistan	pasture_covered_land_area	6.50%	What percentage of land area of Pakistan is covered by pasture?
+Pakistan	forest_covered_land_area	2.10%	What percentage of land area of Pakistan is covered by forest?
+Pakistan	heavy_rain_month	July	Which months have carry heavy rains in Pakistan?
+Pakistan	heavy_rain_month	August	Which months have carry heavy rains in Pakistan?
+Pakistan	issue_deforestation	Yes	Is deforestation an issue for Pakistan?
+Pakistan	issue_aeforestation	No	Is aeforestation an issue for Pakistan?
+Pakistan	issue_sewage	Yes	Is sewage an issue for Pakistan?
+Pakistan	traditional_invasion_route	Khyber_Pass	What were the traditional routes for invasion in Indian Subcontinent from Central Asia?
+Pakistan	traditional_invasion_route	Bolan_Pass	What were the traditional routes for invasion in Indian Subcontinent from Central Asia?
+Pakistan	population	204924861	What is the total population of Pakistan according to 2017 est.?
+Pakistan	rank_population	6	Where does Pakistan rank in the world according to population?
+Pakistan	largest_ethnic_group	Punjabi	What is the largest ethnic group in Pakistan?
+Pakistan	largest_ethnic_group_percentage	44.7%	What is the percentage of largest ethnic group in Pakistan?
+Pakistan	smallest_ethnic_group	Balochi	What is the smallest ethnic group in Pakistan?
+Pakistan	smallest_ethnic_group_percentage	3.6%	What is the percentage of smallest ethnic group in Pakistan?
+Pakistan	lingua_franca	English	What is the lingua franca of Pakistani elite?
+Pakistan	official_language	Urdu	What is the official language of Pakistan?
+Pakistan	official_language	English	What is the official language of Pakistan?
+Pakistan	official_religion	Islam	What is the official religion of Pakistan?
+Pakistani	aged_15-24	21.14%	What percentage of Pakistani are aged 15-24?
+Pakistani	median_age	23.8_years	What is the median age of Pakistani people?
+Pakistani	median_age_male	23.7_years	What is the median age of Pakistani male?
+Pakistan	median_age_female	23.8_years	What is the median age of Pakistani female as of 2017?
+Pakistan	rank_median_age	168	Where does Pakistan rank among the world based on median age?
+Pakistan	birth_rate	21.9_births/1,000	What is the birth rate in Pakistan?
+Pakistan	death_rate	6.3_deaths/1,000	What is the death rate in Pakistan as of 2017?
+Pakistan	net_migration_rate	-1.3_migrant(s)/1,000	What is the net migration rate in Pakistan?
+Pakistani	percentage_in_cities	36.7%	What percentage of Pakistanis live in cities?
+Pakistan	estimated_urbanization_rate	2.53%	What is the estimated urbanization rate in Pakistan in 2015-2020 period?
+Lahore	population	11.738_million	How many people live in Lahore?
+Pakistan	sex_ratio	1.06_male(s)/female	What is the sex ratio in Pakistan for people aged 15-24?
+Pakistan	life_expectancy_at_birth	68.1_years	What is the life expectancy in Pakistan at birth?	
+Pakistan	adult_obesity_rate	8.60%	What is the adult obesity prevalence rate in Pakistan as of 2016?
+Pakistan	percentage_GDP_expenditure_education	2.80%	What percent of GDP was spent on education in Pakistan in 2017?
+Pakistani youth	percentage_unemployed	6.6%	What percent of Pakistani youth is unemployed as of July 2018?
+Pakistan	rank_unemployment	133	Where does Pakistan rank in unemployment in the world?
+Pakistan	literal_meaning	Land_of_the_Pure	What does the word Pakistan mean?
+Pakistan	type_of_government	federal_parliamentary_republic	Which type of government is formed in Pakistan?
+Pakistan	capital	Islamabad	What is the capital of Pakistan?
+Pakistan	time_difference_GMT	GMT+5	What is the time difference of Pakistan from GMT?
+Pakistan	date_of_independence	14_August_1947	When did Pakistan get independence?
+Pakistan	endorsement_date_of_current_constitution	12-Apr-73	When was the current constitution of Pakistan endorsed?
+Pakistan	passing_date_of_current_constitution	19-Apr-73	When was the current constitution of Pakistan passed?
+Pakistan	chief_of_state	President_Arif_ALVI	Who is the chief of state of Pakistan?
+Pakistan	oath_taking_of_head_of_government	18-Aug-18	When did the current head of the government of Pakistan take oath?
+Pakistan	count_of_senate_seats	104	What is the count of senate seats?
+Pakistan	NA_seat_count	342	What is the count of NA seats?
+Supreme_Court_of_Pakistan	judges_years_of_service	17	How many judges serve in Supreme Court of Pakistan?
+Supreme_Court_of_Pakistan	judges_appointed_by	President_of_Pakistan	Who appoints judges in Supreme Court of Pakistan?
+Pakistan	head_National_Party	Mir_Hasil_Khan_BIZENJO	Who heads National Party in Pakistan?	
+Pakistan	participant_UN	True	Is Pakistan a participant of UN?
+Pakistan	national_color	Green	Which color is the national color of Pakistan?
+Pakistan	GDP_purchasing_power_parity	$1.011_trillion	What was the GDP (purchasing power parity) of Pakistan in 2016?
+Pakistan	rank_GDP_purchasing_power_parity	26	Where does Pakistan rank on GDP (purchasing power parity) basis in the world?
+Pakistan	rank_GDP_exchange_rate	42	Where does Pakistan rank on GDP (official exchange rate) basis in the world?
+Pakistan	estimate_GDP_PPP	$5400	What was the estimated GDP PPP of Pakistan in 2017?
+Pakistan	rank_GDP_PPP	172	Where does Pakistan rank on GDP PPP basis in the world?
+Pakistan	percentage_agricultural_contribution_GDP	24.70%	What percent does agriculture contribute to the GDP of Pakistan?
+Pakistan	agricultural_product	cotton	Name any one agricultural product of Pakistan.
+Pakistan	agricultural_product	rice	Name one agricultural product of Pakistan.
+Pakistan	labour	63.89 million	How big is the labour force of Pakistan?
+Pakistan	rank_labour	10	Where does Pakistan rank among labour force in the world?
